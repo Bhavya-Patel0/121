@@ -1,0 +1,15 @@
+img
+{
+    ps5Controller.jpg max-width: 25%;
+    ps5Controller.jpg max-height: 25%;
+}
+.copy_right_footer
+{
+  position:fixed;
+  color: white;
+  bottom:0;
+  width: 100%;
+  background-color: grey;
+  line-height: 3;
+  text-align:center;
+}
